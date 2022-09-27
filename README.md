@@ -45,7 +45,7 @@ go install github.com/bp0lr/gauplus@latest
 [Waybackurls](https://github.com/tomnomnom/waybackurls)
 
 ```
-go get github.com/tomnomnom/waybackurls
+go install github.com/tomnomnom/waybackurls@latest
 ```
 [httpx](https://github.com/projectdiscovery/httpx)
 
